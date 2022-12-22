@@ -34,7 +34,7 @@
 
 
 ![Abbas GitHub stats](https://github-readme-stats.vercel.app/api?username=Abbas-Hussain-Muzammil&theme=codeSTACKr&show_icons=true) 
-https://github-readme-streak-stats.herokuapp.com/?user=Abbas-Hussain-Muzammil
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Abbas-Hussain-Muzammil&theme=dark)](https://git.io/streak-stats)
 <br>
 <img src="https://komarev.com/ghpvc/?username=Abbas-Hussain-Muzammil&style=flat-square&color=blue" alt=""/>
 
