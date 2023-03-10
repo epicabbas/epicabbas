@@ -33,8 +33,11 @@
 ### :fire: My Stats :
 
 
-![Abbas GitHub stats](https://github-readme-stats.vercel.app/api?username=Abbas-Hussain-Muzammil&theme=codeSTACKr&show_icons=true) 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Abbas-Hussain-Muzammil&theme=dark)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api?username=Abbas-Hussain-Muzammil&theme=algolia&show_icons=true)](https://github.com/Abbas-Hussain-Muzammil)
+&nbsp;
+[![Abbas Hussain Muzammil's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=Abbas-Hussain-Muzammil&hide=html,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile,typescript&theme=algolia&show_icons=true)](https://github.com/Abbas-Hussain-Muzammil)
+
 <br>
 <img src="https://komarev.com/ghpvc/?username=Abbas-Hussain-Muzammil&style=flat-square&color=blue" alt=""/>
 
@@ -44,9 +47,15 @@
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Role Of DNS](https://abbashussain2399.medium.com/the-role-of-dns-2ab034dfba05?source=rss-d236717106b3------2)
+
+ - [Time & Space Complexities](https://abbasblogs.hashnode.dev/time-space-complexities)
+ - [The role of DNS](https://abbashussain2399.medium.com/the-role-of-dns-2ab034dfba05)
+ - [How to create your own QR code using PYTHON](https://abbashussain2399.medium.com/how-to-create-your-own-qr-code-using-python-1a3ce5e44bfe)
+ - [Starting ML Journey](https://abbashussain2399.medium.com/started-ml-journey-bfb254a177d5)
+
+<!-- - [The Role Of DNS](https://abbashussain2399.medium.com/the-role-of-dns-2ab034dfba05?source=rss-d236717106b3------2)
 - [How to create your own QR code using PYTHON](https://abbashussain2399.medium.com/how-to-create-your-own-qr-code-using-python-1a3ce5e44bfe?source=rss-d236717106b3------2)
-- [Starting ML Journey](https://abbashussain2399.medium.com/started-ml-journey-bfb254a177d5?source=rss-d236717106b3------2)
+- [Starting ML Journey](https://abbashussain2399.medium.com/started-ml-journey-bfb254a177d5?source=rss-d236717106b3------2) -->
 <!-- BLOG-POST-LIST:END -->
 
 ---
