@@ -49,7 +49,6 @@
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Android is Fun](https://www.linkedin.com/pulse/android-fun-abbas-hussain-muzammil-qx8ie/?trackingId=FMRuIUK6RyKErONhWs%2FksA%3D%3D------2)
 - [The Role Of DNS](https://abbashussain2399.medium.com/the-role-of-dns-2ab034dfba05?source=rss-d236717106b3------2)
 - [How to create your own QR code using PYTHON](https://abbashussain2399.medium.com/how-to-create-your-own-qr-code-using-python-1a3ce5e44bfe?source=rss-d236717106b3------2)
 - [Starting ML Journey](https://abbashussain2399.medium.com/started-ml-journey-bfb254a177d5?source=rss-d236717106b3------2)
