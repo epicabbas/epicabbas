@@ -38,7 +38,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api?username=Abbas-Hussain-Muzammil&theme=algolia&show_icons=true)](https://github.com/Abbas-Hussain-Muzammil)
 &nbsp;
-[![Abbas Hussain Muzammil's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=Abbas-Hussain-Muzammil&hide=html,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile,typescript&theme=algolia&show_icons=true)](https://github.com/Abbas-Hussain-Muzammil)
+
 
 <br>
 <img src="https://komarev.com/ghpvc/?username=Abbas-Hussain-Muzammil&style=flat-square&color=blue" alt=""/>
@@ -65,9 +65,6 @@
   </a>
   <a href="https://abbasblogs.hashnode.dev/">
     <img src="https://img.shields.io/badge/hashnode-darkblue?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode Badge"/>
-  </a>
-  <a href="https://twitter.com/ahussain2399">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
     <a href="https://abbashussain2399.medium.com/">
     <img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white" alt="<Medium Badge"/>
