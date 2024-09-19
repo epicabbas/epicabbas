@@ -3,7 +3,7 @@
   
 ---
  
- I'm learning, teaching and building from tech!
+ I'm learning, teaching, and building from technology!
  
  
 </div>
