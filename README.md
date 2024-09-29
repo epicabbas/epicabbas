@@ -34,6 +34,8 @@
 
 ### :fire: My Stats :
 
+![Abbas's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abbas-Hussain-Muzammil&show_icons=true&theme=transparent)
+
 
 
 <br>
