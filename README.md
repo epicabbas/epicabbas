@@ -36,10 +36,6 @@
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api?username=Abbas-Hussain-Muzammil&theme=algolia&show_icons=true)](https://github.com/Abbas-Hussain-Muzammil)
-&nbsp;
-
-
 <br>
 <img src="https://komarev.com/ghpvc/?username=Abbas-Hussain-Muzammil&style=flat-square&color=blue" alt=""/>
 
