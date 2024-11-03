@@ -34,9 +34,7 @@
 
 ### :fire: My Stats :
 
-![Abbas's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abbas-Hussain-Muzammil&show_icons=true&theme=transparent)
-
-
+![Abbas's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abbas-Hussain-Muzammil&show=reviews,prs_merged,prs_merged_percentage&theme=transparent)
 
 <br>
 <img src="https://komarev.com/ghpvc/?username=Abbas-Hussain-Muzammil&style=flat-square&color=blue" alt=""/>
@@ -53,7 +51,7 @@
 <!-- BLOG-POST-LIST:END -->
 
 ---
-## Other profiles to follow!
+## Other Profiles
 
 <div id="header" align="">
   
