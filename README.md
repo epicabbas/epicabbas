@@ -31,13 +31,11 @@
 </div>
 
 ---
-
+<!--
 ### :fire: My Stats :
+-->
 
-![Abbas's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abbas-Hussain-Muzammil&show=reviews,prs_merged,prs_merged_percentage&theme=transparent)
 
-<br>
-<img src="https://komarev.com/ghpvc/?username=Abbas-Hussain-Muzammil&style=flat-square&color=blue" alt=""/>
 
 
 ---
@@ -69,7 +67,8 @@
     <img src="https://img.shields.io/badge/LeetCode-yellow?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Badge"/>
   </a>
 </div>
-
+<br>
+<img src="https://komarev.com/ghpvc/?username=Abbas-Hussain-Muzammil&style=flat-square&color=blue" alt=""/>
 
 <!--
 **Abbas-Hussain-Muzammil/Abbas-Hussain-Muzammil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
