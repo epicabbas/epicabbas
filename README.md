@@ -3,9 +3,8 @@
   
 ---
  
- I'm learning, teaching, and building from technology!
- 
- 
+Learning, teaching, and building technology for business.
+
 </div>
 
 ---
