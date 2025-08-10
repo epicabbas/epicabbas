@@ -3,7 +3,7 @@
   
 ---
  
-Learning, teaching, and building technology for business.
+Learning, teaching, and building technology for businesses.
 
 </div>
 
